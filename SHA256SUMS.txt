@@ -1,0 +1,2 @@
+6ccf253bb77b5737c42e7e8a79d93bfb25b320cb5d92bebe385cf3f51f3f9d8c  SerialFlow_Studio.exe
+fc2c731bb85f739eeffaa0288bd060f22f7dda2b0d81ea7ba311c59610cd6ea3  SerialFlow_Studio_User_Guide.pdf
